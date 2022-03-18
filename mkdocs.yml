@@ -1,5 +1,8 @@
 site_name: Jigar Vyas
+site_url: https://jigardvyas.github.io/jigarvyas/
+repo_url: https://github.com/jigardvyas/jigarvyas
 theme: readthedocs
-pages:
+nav:
     - Home: index.md
-    - About: about.md
+    - Resume: resume.md
+    - Contact Me: contact_me.md

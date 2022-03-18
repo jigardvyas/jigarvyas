@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+##  Me
+![Jigs](img/Jigar_Vyas.jpeg)
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+## Educations
+> | Majore                                        | University                                                              | Collage | Year | City | Country |
+> |-----------------------------------------------|---------------------------------------------------------------------------|---------|------|------|---------|
+> | Master Of Science in Electrical Engineering   | Northewestern Polytechnic University                                     | Northewestern Polytechnic University | Jan 2015 - Dec 2015      | Fremont, California | USA |
+> | Bachlore of Electronics and Communications    | South Gujarat University | Sri Sa'D Vidhyamandal Institute Of Technology | 2003 - 2006              | Bharuch, Gujarat    | India |
+> | Diploma in Electronics and Communications     | Technical Education Board, Gujarat                                       | Ganpat Vidhyanagar | 2001 - 2003 | Mehsana, Gujarat | India |
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Work
+At present working as Senior Network  Engineer in Verizon Digital Media Group since March 2016
