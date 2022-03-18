@@ -1,2 +1,2 @@
 # jigarvyas
-Jigar Vyas Webpage
+[Jigar Vyas](https://jigardvyas.github.io/jigarvyas/) Profile
