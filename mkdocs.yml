@@ -5,10 +5,6 @@ theme: readthedocs
 nav:
     - Home:
         - "Home": "Index/index.md"
-    - Resume:
-        - "Resume": "Resume/resume.md"
-    - Contact Me:
-        - "Contact Me": "ContactMe/contact_me.md"
     - Profile:
           - "About Me": "Profile/aboutMe.md"
           - "Resume": "Profile/resume.md"
