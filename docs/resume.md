@@ -135,8 +135,6 @@
 > - Completed Six Months of training at Doordarshan Kendra, Ahmedabad as a part of study curriculum during Diploma.
 > - Completed 4 week of training at Third Wave Exim (Computer networking and Hardware Solution), Ahmedabad as a part of vocational training during degree.
 
-**Note:**** I require sponsorship to work in the USA. My Current VISA status is H1B.**
+**Note:** I require sponsorship to work in the USA. My Current VISA status is H1B and have approved I-140.
 
-**Declaration** : - I hereby declare that the above all information is true to the best of my Knowledge.
-
-Page 7
+**Declaration:** I hereby declare that the above all information is true to the best of my Knowledge.
