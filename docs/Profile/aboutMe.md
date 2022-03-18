@@ -1,7 +1,5 @@
 ##  Jigar Vyas
-![Jigs](../Index/img/Jigar_Vyas.jpeg)
-
-Loaded From Index.md 
+![Jigs](img/Jigar_Vyas.jpeg)
 
 Hi,
 
