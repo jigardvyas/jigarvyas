@@ -1,5 +1,5 @@
 ##  Jigar Vyas
-![Jigs](../Index/img/Jigar_Vyas.jpeg)
+![Jigs](Profile/img/Jigar_Vyas.jpeg)
 
 Loaded From Index.md 
 

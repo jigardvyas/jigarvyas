@@ -3,9 +3,8 @@ site_url: https://jigardvyas.github.io/jigarvyas/
 repo_url: https://github.com/jigardvyas/jigarvyas
 theme: readthedocs
 nav:
-    - Home:
-        - "Home": "Index/index.md"
+    - Home: "index.md"
     - Profile:
-          - "About Me": "Profile/aboutMe.md"
-          - "Resume": "Profile/resume.md"
-          - "Contact Me": "Profile/contactMe.md"
+        - "About Me": "Profile/aboutMe.md"
+        - "Resume": "Profile/resume.md"
+        - "Contact Me": "Profile/contactMe.md"
