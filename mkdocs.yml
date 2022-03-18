@@ -3,6 +3,9 @@ site_url: https://jigardvyas.github.io/jigarvyas/
 repo_url: https://github.com/jigardvyas/jigarvyas
 theme: readthedocs
 nav:
-    - Home: index.md
-    - Resume: resume.md
-    - Contact Me: contact_me.md
+    - Home:
+        - "Home": "Index/index.md"
+    - Resume:
+        - "Resume": "Resume/resume.md"
+    - Contact Me:
+        - "Contact Me": "ContactMe/contact_me.md"

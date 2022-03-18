@@ -4,6 +4,7 @@
 
 - **Email:** [Jigar Vyas](mailto:Jigar.vyas@hotmail.com)
 - **Location:** Fremont, CA USA
+- [Click to Downlaod Jigar Vyas Resume](img/Jigar%20Resume%20USA.pdf)
 
 ### **Career Statement**
 
@@ -36,9 +37,9 @@
 - Including hands-on experience in providing network support, installation and analysis for a broad range of LAN/WAN/MAN communication systems.
 - Involved Knowledge on Data Center Design with Cisco Nexus, Juniper and Arista network gears etc.
 - Switches and Virtual Port Channel
-- Cisco IOS and Juniper JUNOS for configuration &amp; troubleshooting of routing protocols: OSPF, EIGRP, RIP, MPLS, BGP,LDP, L2VPN, L3VPN.
+- Cisco IOS and Juniper JUNOS for configuration &amp; troubleshooting of routing protocols: OSPF, EIGRP, RIP, MPLS, BGP,LDP, L2VPN, L3VPN, VxLAN, EVPN, MC-LAg/M-LAG/VPCs.
 - Knowledge of implementing and troubleshooting complex layer 2 technologies such as VLAN Trunks, VTP, Ether channel, STP, RSTP and MST. Implementation of HSRP, VRRP, GLBP for Default Gateway Redundancy.
-- Experience in testing Cisco andjuniper routers and switches in the lab and deploying them in production.
+- Experience in testing Cisco and juniper routers and switches in the lab and deploying them in production.
 - In-depth knowledge and hands-on experience in Tier II ISP Routing Policies, Network Architecture, IP Subnetting, VLSM, TCP/IP,
 - Experience in designing and assisting in deploying enterprise wide Network Security and High Availability Solutions.
 - Adept in preparing Technical Documentation and presentations using Microsoft VISIO/Office
