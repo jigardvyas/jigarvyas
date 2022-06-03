@@ -20,21 +20,6 @@
 > | Software Languages | Python, Ansible, Flask, Django, Jinja2                                                                   |
 > | Packet Sniffers    | WireShark, Etheral, tcp dump                                                                             |
 
-### **Certification and Awards**
-- Successfully completed CISCO CCNA, CCNP IP Routing Certifications.
-- In Recognition of excellent contribution in Phase II Deployment &amp; O&amp;M of Reliance Communication Wimax Project from Telsima Communication Pvt. Ltd.
-
-### **SUMMARY OF EXPERIENCE:**
-- Over all 13+ years of experience in Networking. experience in Networking Engineering, As a Senior Network Engineer I have designed and implemented multiple projects related to new branch networks, Migration and End of Life Technology.
-- Including hands-on experience in providing network support, installation and analysis for a broad range of LAN/WAN/MAN communication systems.
-- Involved Knowledge on Data Center Design with Cisco Nexus, Juniper and Arista network gears etc.
-- Cisco, Arista and Juniper for configuration &amp; troubleshooting.
-- Knowledge of implementing and troubleshooting complex routing and switching protocols.
-- Experience in testing Cisco and juniper routers and switches in the lab and deploying them in production.
-- Experience in designing, lab testing and assisting in deploying enterprise and data center technologies with Security and High Availability Solutions.
-- Documentation of the network design, steps of configuration and troubleshooting using lucid chart/visio/Confluence/Git Pages gdoc etc.
-- Excellent customer management/resolution, problem solving, debugging skills and capable of quickly learning, effectively analyzing results and implementing and delivering solutions as an individual and as part of a team.
-
 ### **Employment History:**
 **Edgio Inc.                                             June 2022 - Present**<br>
 **Yahoo Inc. as Oath Holding Inc.                        Oct 2021 - June 2022**<br>
@@ -119,6 +104,10 @@ Title: Network Operation & Maintenance<br>
 > | MS in Electrical Engineering | Northewestern Polytechnic University                                     | Northewestern Polytechnic University | Jan 2015 - Dec 2015      | Fremont, California | USA |
 > | BE in Electronics and Communications | South Gujarat University | Sri Sa'D Vidhyamandal Institute Of Technology | 2003 - 2006              | Bharuch, Gujarat    | India |
 > | Diploma in Electronics and Communications   | Technical Education Board, Gujarat                                       | Ganpat Vidhyanagar | 2001 - 2003 | Mehsana, Gujarat | India |
+
+### **Certification and Awards**
+- Successfully completed CISCO CCNA, CCNP IP Routing Certifications.
+- In Recognition of excellent contribution in Phase II Deployment &amp; O&amp;M of Reliance Communication Wimax Project from Telsima Communication Pvt. Ltd.
 
 ### **Academic Training**
 
