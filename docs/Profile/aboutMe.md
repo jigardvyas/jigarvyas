@@ -13,6 +13,7 @@ dynamic and quick learner personality and keen to learn & adopt emerging
 technologies in the Networking world.
 
 Currently, I am working as Network Engineer @ Edgio(Limelight/Edgecast) as a Senior 
-Network Engineer. Bring the CDN PoP from the scratch and do Go-Live. Do 
-the troubleshooting fo any problem in network. My focus has been testing the new 
-network design, implement it in network and do the config automation for the same.
+Network Engineer. Bring up the CDN PoP from the scratch and do Go-Live. 
+Do the troubleshooting for any problem in network. Additionally My focus has been
+testing the new network design, implement it in network and do the config
+automation for the same.
