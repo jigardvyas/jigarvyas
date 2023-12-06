@@ -3,25 +3,34 @@
 </span>
 
 - **Email:** [Jigar Vyas](mailto:Jigar.vyas@hotmail.com)
-- **Location:** Fremont, CA USA
-- [Click to Downlaod Jigar Vyas Resume](img/Jigar%20Resume.pdf)
+- **Location:** Elk Grove, CA USA
+- [Click to Download Jigar Vyas Resume](img/Jigar%20Resume.pdf)
 
 ### **Summary Of Experience**
-- 13+ years of experience in diverse networks like Mobility Network, Enterprise Network and in Content Delivery Network with network design, implementation, troubleshooting, developing, POC for new network design and test it in lab environment before put it in production, and maintain network documentation and network automation.
+- 14+ years of experience in diverse networks like Mobility Network, Enterprise Network and in Content Delivery Network with network design, implementation, troubleshooting, developing, POC for new network design and test it in lab environment before put it in production, and maintain network documentation and network automation using Python, Ansible, Flask, Django, Jinja2 etc.
 
 ### **Skills**
 
-> | Skill Name         | Skill Details                                                                                            |
-> |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-> | Network Gears      | - Cisco(CSR,ASA,ISR)<br/>- Juniper(Mx/QFX/SRX/EX)<br/>- Arista(DCS)<br>- Ciena(ome 6500, waverserver ai) |
-> | Network Tools      | Grafana, WhatsUp Gold, WANDL, Marline, Kibana                                                            |
-> | Network Protocols  | - IGP(rip, eigrp, ospf), bgp, tcp/ip <br/>- mpls, VxLAN, EVPN <br/>- mc-lag/m-lag/vpc, stp, hsrp/vrrp    |
-> | Documentation      | Visio, Lucid Charts, G-Docs                                                                              |
-> | Software Languages | Python, Ansible, Flask, Django, Jinja2                                                                   |
-> | Packet Sniffers    | WireShark, Etheral, tcp dump                                                                             |
+> | Skill Name         | Skill Details                                                                                              |
+> |--------------------|------------------------------------------------------------------------------------------------------------|
+> | Network Gears      | - Cisco(CSR,ASA,ISR)<br/>- Juniper(Mx/QFX/SRX/EX)<br/>- Arista(DCS)<br>- Ciena(ome 6500, waverserver ai)   |
+> | Network Tools      | Grafana, WhatsUp Gold, WANDL, Marline, Kibana                                                              |
+> | Network Protocols  | - IGP(rip, eigrp, ospf), bgp, tcp/ip <br/>- mpls, VxLAN, EVPN <br/>- mc-lag/m-lag/vpc, stp, hsrp/vrrp      |
+> | Documentation      | Visio, Lucid Charts, G-Docs                                                                                |
+> | Software Languages | Python, Ansible, Flask, Django, Jinja2                                                                     |
+> | Packet Sniffers    | WireShark, Etheral, tcp dump                                                                               |
 
 ### **Employment History:**
-**Edgio Inc.                                             June 2022 - Present**<br>
+**Juniper Networks Inc.                                             Jan 2023 - Present**<br>
+Title: Resident Engineer Staff<br>
+
+- Validate new network designs, qualified software images, feature sets and functionalities 
+- Troubleshoot network issues and perform root cause analysis
+- Prepare documentation and perform operational procedures
+- Manage communications between customer and internal teams
+- Network automation using Ansible, Python, Flask, Jinja2 etc.
+
+**Edgio Inc.                                             June 2022 - Jan 2023**<br>
 **Yahoo Inc. as Oath Holding Inc.                        Oct 2021 - June 2022**<br>
 **Verizon Digital Media Services as Oath Holding Inc.    Mar 2016 - Sep 2021**<br>
 Title: Senior Network Engineer<br>
@@ -41,7 +50,7 @@ Title: Senior Network Engineer<br>
 
 **Rose International Inc. (USA)       Jan 2016 – Mar 2016**<br>
 **Client: California water works**<br>
-Title: Network Engineer**<br>
+Title: Network Engineer<br>
 
 - Network/Data Center Technologies: Cisco Routers (3900), Cisco Catalyst Switch, Cisco Nexus 5k and 7k Series, Port-Profiles, Routing and Service Profiles.
 - Routing/Switching: WAN, LAN, TCP/IP, Spanning Tree, Frame-relay, PPP, Network Address Translation (NAT), Port Address Translation (PAT), Access Control List (ACL), - RIP, OSPF, EIGRP, BGP, MPLS, VTP, SNMP, SMTP, Static Routing, VLAN
@@ -62,7 +71,7 @@ Title: Sr. Engineer – Network Operation<br>
 - Distribution and access ring readiness on IP network for 1 gig link with DWDM transport network or on ECI MUX network. 
 - Performance, capacity & network change management of MPLS network.
 - Handling the vendor team and ensuring the network & customer order execution within the timeline in coordination with all stakeholders. 
-- 3G core back born readiness as per corporate guide line for new roll out.
+- 3G core back born readiness as per corporate guideline for new rollout.
 - Manage spare & necessary tools for corrective maintenance
 - Attended training session of OTJNR for juniper routers.
 
@@ -75,7 +84,7 @@ Title: L1 Data Engineer(wimax RF and IP Engineer)<br>
 - Troubleshoot the MPLS Network as well as Micro POP Locations of VSNL
 - Routine health checkup of Wimax RF and Core Network and perform preventive action for that.
 - Maintain VSNL NLD and ISP Rooms
-- Traffic Analysis of all back bone links as well as other POPs of the VSNL
+- Traffic Analysis of all backbone links as well as other POPs of the VSNL
 - Ensure the continuous availability of all data network services
 - Working with Cisco routers and L3/L2 switches.
 - Manage spares & necessary tools for corrective maintenance
@@ -90,23 +99,24 @@ Title: Network Operation & Maintenance<br>
 - Maintenance of Reliance Communication’s total 106 Wimax BSS.
 - Troubleshooting and escalation of problems as per Severity.
 - Worked on Cisco L2/L3 Switches when it was necessary.
-- Traffic Analysis of Wimax back bone links and initiate it’s up-gradation process accordingly.
+- Traffic Analysis of Wimax backbone links and initiate it’s up-gradation process accordingly.
 - Worked with 802.16d Wimax technology.
 - Manage spares & necessary tools for corrective maintenance
-- I have done a cross check of RF Optimizing Data which comes in O&M Side.
+- I have done a crosscheck of RF Optimizing Data which comes in O&M Side.
 - Physical Optimization from drive test reports like - tilting, proper Orientation, Height reduction.
 - Doing SS testing at the BTS side when related problems arise.
 
 ### **Educational Qualifications**
 
-> | Majore                                      | University                                                              | Collage | Year | City | Country |
-> |-----------------------------------------------|---------------------------------------------------------------------------|---------|------|------|---------|
-> | MS in Electrical Engineering | Northewestern Polytechnic University                                     | Northewestern Polytechnic University | Jan 2015 - Dec 2015      | Fremont, California | USA |
-> | BE in Electronics and Communications | South Gujarat University | Sri Sa'D Vidhyamandal Institute Of Technology | 2003 - 2006              | Bharuch, Gujarat    | India |
-> | Diploma in Electronics and Communications   | Technical Education Board, Gujarat                                       | Ganpat Vidhyanagar | 2001 - 2003 | Mehsana, Gujarat | India |
+> | Majore                                    | University                           | Collage                                       | Year                | City                | Country |
+> |-------------------------------------------|--------------------------------------|-----------------------------------------------|---------------------|---------------------|---------|
+> | MS in Electrical Engineering              | Northewestern Polytechnic University | Northewestern Polytechnic University          | Jan 2015 - Dec 2015 | Fremont, California | USA     |
+> | BE in Electronics and Communications      | South Gujarat University             | Sri Sa'd Vidhyamandal Institute Of Technology | 2003 - 2006         | Bharuch, Gujarat    | India   |
+> | Diploma in Electronics and Communications | Technical Education Board, Gujarat   | Ganpat Vidhyanagar                            | 2001 - 2003         | Mehsana, Gujarat    | India   |
 
 ### **Certification and Awards**
 - Successfully completed CISCO CCNA, CCNP IP Routing Certifications.
+- Successfully completed Juniper JNCIA-Junos and JNCIS-ENT Certifications.
 - In Recognition of excellent contribution in Phase II Deployment &amp; O&amp;M of Reliance Communication Wimax Project from Telsima Communication Pvt. Ltd.
 
 ### **Academic Training**
