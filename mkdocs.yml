@@ -6,6 +6,5 @@ nav:
     - Home: "index.md"
     - Profile:
         - "About Me": "Profile/aboutMe.md"
-        # - "Resume": "Profile/resume.md"
-        - "Resume": "Profile/newResume.md"
+        - "Resume": "Profile/Resume.md"
         - "Contact Me": "Profile/contactMe.md"
